@@ -6,6 +6,8 @@ Machine Learning analysis of geothermal potential in Portugal.
 
 This project was undertaken as part of my Master's degree in Geospatial Technologies. Combining ArcGIS Pro and Python, I conducted a comprehensive study on geothermal potential in Portugal. The dataset was constructed using geospatial data from various public sources, including geological, geophysical, weather, and soil data.
 
+[Read Thesis](https://run.unl.pt/handle/10362/134617)
+
 ## Workflow
 
 1. **Data Preparation:**
@@ -33,7 +35,7 @@ This project was undertaken as part of my Master's degree in Geospatial Technolo
   - A concise presentation summarizing the methodology, results, and key findings.
 
 - **Thesis PDF:**
-  - The complete Master's thesis providing in-depth details of the study.
+  - The complete Master's thesis providing in-depth details of the study. [Read Thesis](https://run.unl.pt/handle/10362/134617)
 
 ## Purpose
 
